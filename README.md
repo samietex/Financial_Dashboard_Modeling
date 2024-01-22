@@ -102,7 +102,7 @@ Here is a link to the interactive report: [Power BI Report](https://app.powerbi.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](/LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE.md) file for details.
 
 ## Contribution
 
